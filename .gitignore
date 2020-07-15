@@ -1,4 +1,4 @@
 *.ind
-*.hyp
-*.ref
 *.out
+pib*.ref
+pib*.hyp
