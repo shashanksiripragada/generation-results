@@ -2,3 +2,4 @@
 *.out
 pib*.ref
 pib*.hyp
+prev_reported/
